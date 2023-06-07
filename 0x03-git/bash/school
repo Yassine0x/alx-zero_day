@@ -1,3 +1,4 @@
 #!/bin/bash
 echi "School"
 echo "The School is open"
+echo "The School is open"
